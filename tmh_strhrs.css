@@ -1,0 +1,11 @@
+@import url('https://fonts.google.com/specimen/Amatic+SC');
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-size: 2rem;
+    font-family: "Amatic SC", sans-serif;
+    background-color: gray;
+    color: white;
+  }
