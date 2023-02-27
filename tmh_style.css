@@ -108,10 +108,10 @@ body {
   display: flex;
 }
 .mymenu ul li{
-  padding-left: 116px;
+  padding-left: 115px;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-right: 116px;
+  padding-right: 115px;
   background-color: black;
   color: white;
   text-decoration: none;
